@@ -1,0 +1,68 @@
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 35px 135px;
+    background: #74C69D;
+
+}
+a{
+font-weight: 400;
+font-size: 20px;
+line-height: 125%;
+letter-spacing: 0px;
+text-align: right;
+text-decoration: none;
+color: white;
+}
+.links{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}
+h3{
+    text-align: center;
+}
+.p{
+    text-align: center;
+
+font-weight: 400;
+
+font-size: 20px;
+
+line-height: 125%;
+letter-spacing: 0px;
+text-align: center;
+
+}
+input{
+    background: #EEEEEE;
+border: 1px solid #000000;
+padding: 10px 140px;
+}
+.mes{
+    padding: 30px 140px;
+}
+button{
+    padding: 5px 200px;
+    background: #212529;
+color: white;
+}
+.boxes{
+    display: flex;
+    padding: 67px 137px;
+    gap: 50px;
+}
+footer{
+    padding: 30px 131px;
+    background: #74C69D;
+align-items: center;
+display: flex;
+justify-content: space-between;
+}
+footer p{
+    color: white;
+}
+a:hover{
+    color: black;
+}
